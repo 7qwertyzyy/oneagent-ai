@@ -113,7 +113,7 @@ ${form.message}
                 <div>
                   <p className="text-sm text-hero-muted">E-Mail</p>
                   <p className="text-hero-foreground font-medium">
-                    kontakt@oneagent-ai.de
+                    contakt@oneagent-ai.de
                   </p>
                 </div>
               </div>
